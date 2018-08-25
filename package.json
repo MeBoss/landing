@@ -6,7 +6,7 @@
   "scripts": {
     "deploy": "gh-pages -d dist"
   },
-  "homepage": "https://meboss.github.io/mytunes_landing",
+  "homepage": "https://meboss.github.io/landing",
   "author": "Boss Jain",
   "license": "MIT",
   "dependencies": {
